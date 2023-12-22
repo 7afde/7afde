@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hafed.zouyed@univ-constantine2.dz**
 
-- ⚡ Fun fact **I gym**
+- ⚡ Fun fact **I GYM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
