@@ -5,7 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=7afde&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018cff95-62d4-4c2e-8d2a-f184db7cdec9.svg)](https://wakatime.com/@018cff95-62d4-4c2e-8d2a-f184db7cdec9)
+[![wakatime](https://wakatime.com/badge/user/018d0002-0873-4354-92f4-81fbd22bec66.svg)](https://wakatime.com/@018d0002-0873-4354-92f4-81fbd22bec66)
 
 <!--h1 without bottom border-->
 <h3 align="center">
