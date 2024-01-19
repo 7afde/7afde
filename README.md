@@ -55,7 +55,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,nodejs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,nodejs" />
 </p>
 
 <br>
@@ -63,7 +63,7 @@
 - **Softwares and Tools**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,bash,gitlab" />
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,bash,gitlab,vite,netlify" />
 </p>
 
 <br>
