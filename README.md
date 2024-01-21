@@ -24,7 +24,10 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/zouyed-hafed-9b563a259" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MarwaneQ"/>
- </a>
+   </a>
+   <a href="mailto:zouyedhafed00@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+   </a>
 </p>
 <!--- snake -->
 <div align="center">
@@ -74,9 +77,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+
 <p align="center">
   <a href="https://github.com/7afde">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=7afde&theme=algolia" alt="7afde's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/7afde">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7afde&theme=algolia" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
@@ -85,44 +94,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7afde&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
-  <a href="https://github.com/7afde">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7afde&theme=algolia" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--icons and links-->
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/zouyed-hafed-9b563a259" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hafed"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  7afde-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:zouyedhafed00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  zouyedhafed00-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
