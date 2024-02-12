@@ -50,7 +50,7 @@
 - **Languages**:
     
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 <br>   
@@ -58,7 +58,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react" />
 </p>
 
 <br>
@@ -66,7 +66,7 @@
 - **Softwares and Tools**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,bash,gitlab,vite,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,nodejs,bash,gitlab,vite,netlify" />
 </p>
 
 <br>
