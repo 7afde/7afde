@@ -62,7 +62,7 @@
 - **Softwares and Tools**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,nodejs,bash,gitlab,vite,netlify,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,powershell,nodejs,bash,gitlab,vite,netlify,stackoverflow" />
 </p>
 
 <br>
