@@ -29,11 +29,7 @@
 <img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
    </a>
 </p>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -58,7 +54,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,postman" />
 </p>
 
 <br>
@@ -66,7 +62,7 @@
 - **Softwares and Tools**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,nodejs,bash,gitlab,vite,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,markdown,nodejs,bash,gitlab,vite,netlify,stackoverflow" />
 </p>
 
 <br>
