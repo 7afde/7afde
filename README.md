@@ -54,7 +54,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,postman" />
 </p>
 
 <br>
