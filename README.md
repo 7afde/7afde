@@ -63,7 +63,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,postman,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,typescript,postman,next" />
 </p>
 
 <br>
