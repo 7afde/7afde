@@ -47,7 +47,7 @@
 - **My Go To Tech-Stack**:
     
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind" />
 </p>
 
 <br>
