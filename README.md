@@ -5,6 +5,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=7afde&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<a> <img align="right" src="https://aktive.kerolloz.dev/algeria/7afde" alt="badge"></a>
+
 [![wakatime](https://wakatime.com/badge/user/018d0002-0873-4354-92f4-81fbd22bec66.svg)](https://wakatime.com/@018d0002-0873-4354-92f4-81fbd22bec66)
 
 <!--h1 without bottom border-->
