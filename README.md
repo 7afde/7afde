@@ -38,7 +38,7 @@
 ##  **About me**
 
 ✔ Callme: ***BroGrammer*** 😎 <br><br>
-✔ I’m currently **learning** about **Node.js ,Express and MongoDB**<br><br>
+✔ I’m currently **learning** about **Deno 2 and Hono**<br><br>
 ✔ I’m currently **working** on some **Personal Projects** and **Freelance** <br><br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
