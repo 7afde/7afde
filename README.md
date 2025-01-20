@@ -9,42 +9,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d0002-0873-4354-92f4-81fbd22bec66.svg)](https://wakatime.com/@018d0002-0873-4354-92f4-81fbd22bec66)
 
-<!--h1 without bottom border-->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Hafed</a></b>
-        </samp>
-</h3>
-<p align="center">
-  <a href="https://github.com/7afde"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<p align="center"> 
-  <samp>
-    「 I am a cs student and front end web application developer from <b>Algeria</b> 」
-  </samp>
-</p>
-<p align="center">
-   <a href="https://www.linkedin.com/in/7afde" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hafed"/>
-   </a>
-   <a href="mailto:zouyedhafed00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-   </a>
-</p>
 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-##  **About me**
-
-✔ Callme: ***BroGrammer*** 😎 <br><br>
-✔ I’m currently **learning** about **Deno 2 and Hono**<br><br>
-✔ I’m currently **working** on some **Personal Projects** and **Freelance** <br><br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 <p align="center">
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - **My Go To Tech-Stack**:
     
